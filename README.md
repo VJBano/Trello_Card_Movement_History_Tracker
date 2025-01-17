@@ -40,7 +40,7 @@ Before running this application, make sure you have the following:
 #### Clone repository
 
 ```bash
-git clone
+git clone git@github.com:VJBano/Trello_Card_Movement_History_Tracker.git
 ```
 
 #### Install Dependencies
